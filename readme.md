@@ -1,3 +1,27 @@
+<!-- 逆天内嵌CSS --->
+<style type="text/css">
+  summary {
+  font-weight: bold;
+  width: -moz-fit-content;
+   width: fit-content;
+   direction: rtl;
+ }
+summary ::-webkit-details-marker {
+    direction: ltr;
+    color: gray;
+    margin-left: .5ch;
+}
+summary ::-moz-list-bullet {
+    direction: ltr;
+    color: gray;
+    margin-left: .5ch;
+}
+    .discription {
+  font-size: 12px;
+  color:grey;
+ }
+</style>
+
 # Comic Love
 
 ## 这是一个用来记录我想要看，看完的番剧，以及自己对番剧评价的项目
@@ -13,7 +37,7 @@
 
 <details close>
  <summary>南家三姐妹再来一碗</summary>
- <div style="font-weight: bold;" class="discription">
+ <div class="discription">
   高中二年级代母之职的大姐春香，活泼但爱闯祸的初中二年级生夏奈，毒舌的小学五年级生千秋和他们各个年龄的朋友
  </div>
  <img src="Comic\wanted\南家三姐妹再来一碗\南家三姐妹再来一碗.jpg" alt="南家三姐妹再来一碗" style="height: 100px;width: auto;"></img>
