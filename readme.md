@@ -13,7 +13,7 @@
 
 <details close>
  <summary>南家三姐妹再来一碗</summary>
- <div class="discription" style="font-size: 12px;color:grey;">
+ <div>
   高中二年级代母之职的大姐春香，活泼但爱闯祸的初中二年级生夏奈，毒舌的小学五年级生千秋和他们各个年龄的朋友
  </div>
  <img src="Comic\wanted\南家三姐妹再来一碗\南家三姐妹再来一碗.jpg" alt="南家三姐妹再来一碗" style="height: 100px;width: auto;"></img>
